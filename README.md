@@ -9,6 +9,7 @@ Pada repository ini, akan disajikan beberapa modul yang menjelaskan ragam librar
 - Pandas
 - Matplotlib
 - Seaborn
+
 Pada modul akan dijelaskan masing masing fungsi dan penggunaannya dari tiap library, mulai dari library untuk mengolah nilai suatu data serta bagaimana cara membuat visualisasi data pada python. Untuk mengetahui karakteristik dan perbedaan dari setiap library diatas dapat klik [link ini]()
 
 ## Google Colaboratory
