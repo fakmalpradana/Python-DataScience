@@ -15,8 +15,8 @@ Pada modul akan dijelaskan masing masing fungsi dan penggunaannya dari tiap libr
 ## Google Colaboratory
 
 Jika preview file terlalu lama loading atau ingin membuka file ipnyb diatas pada google colab dapat mengakses link dibawah ini :
-1. [Membuat dan Mengenal Array dengan NumPy]()
-2. [Operasi Aljabar dan Numerik dengan NumPy]()
+1. [Membuat dan Mengenal Array dengan NumPy](https://colab.research.google.com/github/fakmalpradana/Python-DataScience/blob/main/NumPy%2001%20(Array).ipynb)
+2. [Operasi Aljabar dan Numerik dengan NumPy](https://colab.research.google.com/github/fakmalpradana/Python-DataScience/blob/main/NumPy%2002%20(Operation).ipynb)
 3. [Mengolah dan Mengelola Data dengan Pandas]()
 4. [Visualisasi dengan Matplotlib]()
 5. [Visualisasi dengan Seaborn]()
