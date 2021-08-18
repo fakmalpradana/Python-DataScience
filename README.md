@@ -10,7 +10,7 @@ Pada repository ini, akan disajikan beberapa modul yang menjelaskan ragam librar
 - Matplotlib
 - Seaborn
 
-Pada modul akan dijelaskan masing masing fungsi dan penggunaannya dari tiap library, mulai dari library untuk mengolah nilai suatu data serta bagaimana cara membuat visualisasi data pada python. Untuk mengetahui karakteristik dan perbedaan dari setiap library diatas dapat klik [link ini]()
+Pada modul akan dijelaskan masing masing fungsi dan penggunaannya dari tiap library, mulai dari library untuk mengolah nilai suatu data serta bagaimana cara membuat visualisasi data pada python. Untuk mengetahui karakteristik dan perbedaan dari setiap library diatas dapat klik [link ini](https://github.com/fakmalpradana/Python-DataScience/wiki)
 
 ## Google Colaboratory
 
